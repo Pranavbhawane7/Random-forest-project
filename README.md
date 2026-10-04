@@ -12,17 +12,6 @@ It also compares performance with a **Decision Tree Classifier** using metrics s
 
 ---
 
-## Worflow
-Random-forest-project/
-│
-├── data/                # Dataset files
-├── random_forest.py     # Model training script
-├── random_forest_project.ipynb  # Jupyter notebook
-├── requirements.txt     # Dependencies
-└── README.md            # Project documentation
-
----
-
 ## Models Implemented
 - Decision Tree Classifier  
 - Random Forest Classifier  
