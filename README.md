@@ -1,24 +1,35 @@
-# 🌲 Random Forest Project
+# Random Forest Project
 
-## 📌 Overview
+## Overview
 This project demonstrates the implementation of a **Random Forest Classifier** for binary classification tasks.  
 It also compares performance with a **Decision Tree Classifier** using metrics such as accuracy, precision, recall, F1‑score, and confusion matrix.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - Contains loan application features and target labels (0 = non‑default, 1 = default).  
 - Preprocessing includes handling categorical variables with `pd.get_dummies()` and splitting into train/test sets.
 
 ---
 
-## ⚙️ Models Implemented
+## Worflow
+Random-forest-project/
+│
+├── data/                # Dataset files
+├── random_forest.py     # Model training script
+├── random_forest_project.ipynb  # Jupyter notebook
+├── requirements.txt     # Dependencies
+└── README.md            # Project documentation
+
+---
+
+## Models Implemented
 - Decision Tree Classifier  
 - Random Forest Classifier  
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 - Accuracy  
 - Precision, Recall, F1‑score  
 - Confusion Matrix  
