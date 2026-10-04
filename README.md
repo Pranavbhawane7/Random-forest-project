@@ -1,7 +1,7 @@
 # 🌲 Random Forest Project
 
 ## 📌 Overview
-This repository demonstrates the implementation of a **Random Forest Classifier** for binary classification tasks.  
+This project demonstrates the implementation of a **Random Forest Classifier** for binary classification tasks.  
 It also compares performance with a **Decision Tree Classifier** using metrics such as accuracy, precision, recall, F1‑score, and confusion matrix.
 
 ---
