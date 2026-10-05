@@ -18,6 +18,12 @@ It also compares performance with a **Decision Tree Classifier** using metrics s
 
 ---
 
+## Observations
+Countplot showing the purpose for loan
+
+<img width="930" height="558" alt="image" src="https://github.com/user-attachments/assets/1f367d28-3a71-4f7c-9c3b-ddadac257802" />
+
+
 ## Evaluation Metrics
 - Accuracy  
 - Precision, Recall, F1‑score  
