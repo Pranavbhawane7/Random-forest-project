@@ -23,6 +23,9 @@ Countplot showing the purpose for loan
 
 <img width="930" height="558" alt="image" src="https://github.com/user-attachments/assets/1f367d28-3a71-4f7c-9c3b-ddadac257802" />
 
+<img width="526" height="481" alt="image" src="https://github.com/user-attachments/assets/4bbb72f6-34df-456f-8f2e-14d9cd636123" />
+
+
 
 ## Evaluation Metrics
 - Accuracy  
