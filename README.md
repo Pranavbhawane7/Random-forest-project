@@ -10,6 +10,8 @@ It also compares performance with a **Decision Tree Classifier** using metrics s
 - Contains loan application features and target labels (0 = non‑default, 1 = default).  
 - Preprocessing includes handling categorical variables with `pd.get_dummies()` and splitting into train/test sets.
 
+- Also I am making changes in this just to commit
+
 ---
 
 ## Models Implemented
